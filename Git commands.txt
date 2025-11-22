@@ -7,5 +7,6 @@ git add app.py								##Command to add the file individually to the staging area
 git commit -m "app.py added with one function even_odd"			##Command to commit the dile so that everyone can see and track the file.
 git status								##Command to see the current status of the folder.
 git log									##Command to see the logs of the folder.
-git log --oneline							##Command to see the logs in one line
-git diff 227eb44 80c6d23						##Command to check the difference between the file logs
+git log --oneline							##Command to see the logs in one line.
+git diff 227eb44 80c6d23						##Command to check the difference between the file logs.
+git rm filename 							##Command to delete a file.
