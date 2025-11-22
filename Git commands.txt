@@ -1,0 +1,9 @@
+git --version 								##Command to see if git is installed in the system.
+git config --global user.name "Adwait" 					##Command to set the username of the current device.
+git config --global user.email "adwaitvid@gmail.com"			##Command to set the the email associated with the current device.
+git config --list 							##Command to see the current username and email.
+git init								##Command to create a invisible get folder to convert the current folder into a 									  repository.
+git add app.py								##Command to add the file individually to the staging area for appending and tracking.
+git commit -m "app.py added with one function even_odd"			##Command to commit the dile so that everyone can see and track the file.
+git status								##Command to see the current status of the folder.
+git log									##Command to see the logs of the folder.
