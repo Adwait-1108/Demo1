@@ -32,5 +32,9 @@ git remote add origin https://github.com/Adwait-1108/Demo1.git		##Command to lin
 
 git branch -M main							##Command to change the branch from master to main.
 
-git push -u origin main							##Command to push the file from local to remote mode
+git push -u origin main							##Command to push the file from local to remote mode.
+
+git restore --staged new.txt						##Command to restore a file which was added by mistake.
+
+git reset new.txt							##Command to reset a file which was committed by mistake. 
 
